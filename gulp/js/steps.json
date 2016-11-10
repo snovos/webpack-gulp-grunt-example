@@ -1,0 +1,6 @@
+[
+  {"text":"Planning", "status":"done"},
+  {"text":"Development", "status":"progress"},
+  {"text":"Testing", "status":"none"},
+  {"text":"Production", "status":"none"}
+]

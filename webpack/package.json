@@ -1,0 +1,20 @@
+{
+  "name": "ste-progress-bar",
+  "version": "0.0.1",
+  "devDependencies": {
+    "autoprefix": "^1.0.1",
+    "autoprefixer": "^6.5.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "json-loader": "^0.5.4",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1"
+  },
+  "dependencies": {
+    "node-sass": "^3.11.2"
+  }
+}

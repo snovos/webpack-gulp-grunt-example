@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-sass": "^1.2.1",
+    "stringify": "^5.1.0"
+  }
+}
